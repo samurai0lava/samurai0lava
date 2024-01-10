@@ -1,6 +1,3 @@
-[![My Skills](https://skillicons.dev/icons?i=c,linux,vim,vscode,arduino,blender)](https://skillicons.dev)
-
-
 # Hi There👋
 
 ## samurai0lava
