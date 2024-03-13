@@ -6,7 +6,7 @@
 
 ## 1337
 
-[![iouhssei's 42 stats](https://badge.mediaplus.ma/black/iouhssei)](https://github.com/oakoudad/badge42)
+[![iouhssei's 42 stats](https://badge.mediaplus.ma/greenbinary/iouhssei)](https://github.com/oakoudad/badge42)
 
 ## SKILLS
 [![My Skills](https://skillicons.dev/icons?i=c,linux,vim,git,github,vscode,arduino,blender)](https://skillicons.dev)
