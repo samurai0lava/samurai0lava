@@ -5,8 +5,8 @@
 ## samurai0lava
 
 ## 1337
+[![iouhssei's 42 stats](https://badge.mediaplus.ma/darkblue/iouhssei)](https://github.com/oakoudad/badge42)
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/iouhssei" alt="iouhssei's 42 stats" /></a>
 
 ## SKILLS
 [![My Skills](https://skillicons.dev/icons?i=c,linux,vim,git,github,vscode,arduino,blender)](https://skillicons.dev)
