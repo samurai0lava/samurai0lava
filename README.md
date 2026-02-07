@@ -21,4 +21,4 @@ A systems enthusiast who loves to code, Currently turning caffeine and logic int
 ---
 
 ### Stats
-[![Samurai0lava's GitHub stats](https://github-readme-stats.vercel.app/api?samurai0lava)](https://github.com/anuraghazra/github-readme-stats)
+![samurai0lava's GitHub stats](https://github-readme-stats.vercel.app/api?username=samurai0lava&theme=dark&show_icons=true)
