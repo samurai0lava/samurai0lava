@@ -21,7 +21,4 @@ A systems enthusiast who loves to code, Currently turning caffeine and logic int
 ---
 
 ### Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samurai0lava&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samurai0lava&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
