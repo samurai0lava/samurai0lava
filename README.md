@@ -5,13 +5,6 @@ A systems enthusiast who loves to code, Currently turning caffeine and logic int
 ---
 
 ### My Tech Stack
-<div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,linux,vim,git,github,vscode,docker,mysql,html,css,js,ts,react,postman,arduino,blender)](https://skillicons.dev)
-</div>
-
----
-
-### My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,linux,vim,git,github,vscode,docker,mysql,html,css,js,ts,react,postman,arduino,blender" />
