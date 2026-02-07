@@ -1,7 +1,9 @@
 # Hi there, I'm Ilyass 👋
+---
 
-### Software Engineering Student at 1337
+Software Engineering Student at 1337
 A systems enthusiast who loves to code, Currently turning caffeine and logic into functional projects.
+
 ---
 
 ### My Tech Stack
