@@ -1,12 +1,13 @@
-# Hi there, I'm Ilyass
+<div align="center">
 
-
----
+# Hi there, I'm Ilyass 👋
 
 ### Software Engineering Student at 1337
-A systems enthusiast who loves to code, Currently turning caffeine and logic into functional projects.
 
----
+A systems enthusiast who loves to code  
+Currently turning caffeine and logic into functional projects ☕💻
+
+</div>
 
 ### My Tech Stack
 <p align="center">
@@ -18,4 +19,8 @@ A systems enthusiast who loves to code, Currently turning caffeine and logic int
 ---
 
 ### Stats
-![samurai0lava's GitHub stats](https://github-readme-stats.vercel.app/api?username=samurai0lava&theme=dark&show_icons=true)
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=samurai0lava&theme=summer&pixelate_avatar=false">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=samurai0lava&screen_effect=true&pixelate_avatar=fals&include_all_commits=true">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=samurai0lava&theme=crt&pixelate_avatar=false">
+</picture>
