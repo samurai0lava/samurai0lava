@@ -21,4 +21,4 @@ A systems enthusiast who loves to code, Currently turning caffeine and logic int
 ---
 
 ### Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samurai0lava)](https://github.com/anuraghazra/github-readme-stats)
