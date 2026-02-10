@@ -12,7 +12,7 @@ Currently turning caffeine and logic into functional projects ☕💻
 ### My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,linux,vim,git,github,vscode,docker,mysql,html,css,js,ts,react,postman,arduino,blender" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,linux,vim,git,github,vscode,docker,mysql,html,css,tailwind,js,ts,react,postman,arduino,blender" />
   </a>
 </p>
 
